@@ -1,0 +1,12 @@
+# Ignorar configuraciones locales de editores
+.vscode/
+.DS_Store
+
+# Ignorar archivos objeto de la compilación
+*.o
+
+# Ignorar archivos binarios y librerías compiladas
+*.a
+*.out
+a.out
+main.c
