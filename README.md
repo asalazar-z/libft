@@ -5,7 +5,6 @@
 Libft is a static library in C that centralizes the reimplementation of core functions from the standard `libc`, alongside custom functions optimized for string manipulation, memory management, and linked list processing.
 Since many of these functions reference each other, compiling them together into a static library (`libft.a`) automates dependency management and ensures seamless reuse across future projects. 
 The primary objective of this project is to deeply understand the underlying mechanics of memory allocation, data structures, and low-level system behavior in C.
-There's also a bonus part
 
 ## Instructions
 
