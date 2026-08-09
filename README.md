@@ -11,7 +11,7 @@ The primary objective of this project is to deeply understand the underlying mec
 1. Clone the repository
 
 ```bash
-git clone git@vogsphere-v2.42madrid.com:vogsphere/intra-uuid-a085adef-9405-4022-ab9b-b16a6e3deb33-7425983-andrsala
+git clone git@github.com:asalazar-z/libft.git
 ```
 
 2. Compilation
